@@ -13,8 +13,7 @@ def volume_of_a_cylinder(radius,height):
 print("Volume of a cylinder :",volume_of_a_cylinder(radius, height))
 
 
-#volume of a sphere
-
+#volume of a sphere (4/3 * pi r**3)
 
 def volume_of_a_sphere(r):
     volume = 4/3*(pi * pow(r, 3))
