@@ -1,4 +1,5 @@
-#a function to return the area of a circle
+#a function to return the area of a circle (pi * (r**2))
+
 from math import pi
 from math import pow
 radius = int((input("Enter the radius of the cylinder : ")))
